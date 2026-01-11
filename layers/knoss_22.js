@@ -1,0 +1,1 @@
+var json_knoss_22 = {"type":"FeatureCollection","name":"knoss_22","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"206","name":"Кносс"},"geometry":{"type":"Point","coordinates":[25.105249100363245,35.29077708273158]}}]}
