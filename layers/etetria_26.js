@@ -1,1 +1,0 @@
-var json_etetria_26 = {"type":"FeatureCollection","name":"etetria_26","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"210","name":"Эретрия"},"geometry":{"type":"Point","coordinates":[23.879003997959188,38.40426233921594]}}]}

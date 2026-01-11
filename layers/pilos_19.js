@@ -1,1 +1,0 @@
-var json_pilos_19 = {"type":"FeatureCollection","name":"pilos_19","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"203","name":"Пилос"},"geometry":{"type":"Point","coordinates":[21.667782643700598,36.973485675424897]}}]}

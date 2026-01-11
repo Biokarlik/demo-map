@@ -1,1 +1,0 @@
-var json_itakacity_27 = {"type":"FeatureCollection","name":"itakacity_27","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"211","name":"Итака"},"geometry":{"type":"Point","coordinates":[20.64362826436405,38.431093744394417]}}]}

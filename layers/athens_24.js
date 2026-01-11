@@ -1,1 +1,0 @@
-var json_athens_24 = {"type":"FeatureCollection","name":"athens_24","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"208","name":"Афины"},"geometry":{"type":"Point","coordinates":[23.688636425361473,38.044470299456968]}}]}

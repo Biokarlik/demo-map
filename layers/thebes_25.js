@@ -1,1 +1,0 @@
-var json_thebes_25 = {"type":"FeatureCollection","name":"thebes_25","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"209","name":"Фивы"},"geometry":{"type":"Point","coordinates":[23.294396495886179,38.343784779535795]}}]}

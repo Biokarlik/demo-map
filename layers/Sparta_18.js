@@ -1,1 +1,0 @@
-var json_Sparta_18 = {"type":"FeatureCollection","name":"Sparta_18","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"202","name":"Спарта"},"geometry":{"type":"Point","coordinates":[22.369461303428302,37.116087645576748]}}]}

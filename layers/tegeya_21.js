@@ -1,1 +1,0 @@
-var json_tegeya_21 = {"type":"FeatureCollection","name":"tegeya_21","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"205","name":"Тегея"},"geometry":{"type":"Point","coordinates":[22.384213231375035,37.486596212702892]}}]}
