@@ -1,0 +1,1 @@
+var json_Argos_16 = {"type":"FeatureCollection","name":"Argos_16","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"200","name":"Аргос"},"geometry":{"type":"Point","coordinates":[22.741894035069219,37.635612064570701]}}]}

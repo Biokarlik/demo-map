@@ -1,0 +1,1 @@
+var json_elida_20 = {"type":"FeatureCollection","name":"elida_20","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"204","name":"Элида"},"geometry":{"type":"Point","coordinates":[21.37295788082292,37.922740169389222]}}]}

@@ -1,0 +1,1 @@
+var json_Micenaeus_17 = {"type":"FeatureCollection","name":"Micenaeus_17","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"201","name":"Микены"},"geometry":{"type":"Point","coordinates":[22.785223369328286,37.755907979421451]}}]}
